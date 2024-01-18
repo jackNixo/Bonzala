@@ -43,6 +43,7 @@
 		18CBBE042AFD0125003D0544 /* UD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CBBE032AFD0125003D0544 /* UD.swift */; };
 		18CBBE072AFD0155003D0544 /* UserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CBBE062AFD0155003D0544 /* UserDefaults.swift */; };
 		18CBBE092AFD1043003D0544 /* HomeBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CBBE082AFD1042003D0544 /* HomeBtn.swift */; };
+		18E6E3722B5934510076DBDF /* StartVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E6E3712B5934510076DBDF /* StartVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -83,6 +84,7 @@
 		18CBBE032AFD0125003D0544 /* UD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UD.swift; sourceTree = "<group>"; };
 		18CBBE062AFD0155003D0544 /* UserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaults.swift; sourceTree = "<group>"; };
 		18CBBE082AFD1042003D0544 /* HomeBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeBtn.swift; sourceTree = "<group>"; };
+		18E6E3712B5934510076DBDF /* StartVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 		18CBBDBE2AFCE1BC003D0544 /* Flow */ = {
 			isa = PBXGroup;
 			children = (
+				18E6E3712B5934510076DBDF /* StartVC.swift */,
 				18CBBDC22AFCE246003D0544 /* StartScreen */,
 				18CBBDC32AFCE269003D0544 /* Home */,
 				18CBBDC42AFCE285003D0544 /* BonusCard */,
@@ -369,6 +372,7 @@
 				18CBBDFA2AFD0093003D0544 /* NewsDetailsVC.swift in Sources */,
 				18CBBDCD2AFCE310003D0544 /* HomeVC.swift in Sources */,
 				18CBBE072AFD0155003D0544 /* UserDefaults.swift in Sources */,
+				18E6E3722B5934510076DBDF /* StartVC.swift in Sources */,
 				18CBBDFC2AFD0099003D0544 /* NewsDetailsView.swift in Sources */,
 				18CBBDD32AFCE32E003D0544 /* BonusCardView.swift in Sources */,
 				18CBBDFF2AFD00D8003D0544 /* ServiceData.swift in Sources */,
